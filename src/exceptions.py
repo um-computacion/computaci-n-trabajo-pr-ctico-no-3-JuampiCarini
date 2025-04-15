@@ -4,3 +4,4 @@ class NumeroDebeSerPositivo(Exception):
 
 def ingrese_numero():
     entrada = input("Ingrese un número: ")
+    
